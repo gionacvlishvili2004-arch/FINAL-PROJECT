@@ -1,0 +1,10 @@
+{
+  "validEmail": "George@gmail.com",
+  "invalidEmail": "nikagmail.com",
+  "validPassword": "Test12345",
+  "invalidPassword": "test123456",
+  "firstName": "Giorgi",
+  "lastName": "Natsvlishvili",
+  "personalId": "62001001001",
+  "phone": "577845321"
+}
